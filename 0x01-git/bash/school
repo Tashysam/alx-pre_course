@@ -1,2 +1,4 @@
-#!/bin/bash
+#!/bin/basht
 echo "school"
+echo "The school is open"
+
